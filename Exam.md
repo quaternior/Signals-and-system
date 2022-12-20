@@ -1,4 +1,4 @@
 System Analysis
 ===============
 1. Memoryless
-Memoryless
+Memoryless $$ <=> h[n]=k\ delta [n]
